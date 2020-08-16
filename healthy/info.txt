@@ -1,0 +1,2 @@
+Data Source: https://zenodo.org/record/16956#.Xzh40C2ZPjA
+Patient Info: This zip file contains a DICOM data set of magnetic resonance images  a normal male mathematics professor aged 52. The experimental subject is the author. The MRI scans are T2 weighted  turbo-spin-echo (T2W TSE) and T1 weighted Fast Field Echo (T1W FFE). The subject suffers from a small vertical strabismus (hypertropia), a misalignment of the eyes, which is visible in this data set.
