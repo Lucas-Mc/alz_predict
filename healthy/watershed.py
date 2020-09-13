@@ -42,6 +42,7 @@ def equalize_image(normal_image, adaptive=False, tile_size=(8,8), contrast_limit
 
     if adaptive:
         # From: https://www.academia.edu/26306360/Realization_of_the_Contrast_Limited_Adaptive_Histogram_Equalization_CLAHE_for_Real_Time_Image_Enhancement
+        # Also check here: https://github.com/scikit-image/scikit-image/blob/2f52ab87f53f13f86e5199db15ec8f2658718100/skimage/exposure/_adapthist.py#L101
         # Get the dimensions of each tile based on the number of sections
         tile_width = normal_image.shape[1] // tile_size[1]
         tile_height = normal_image.shape[0] // tile_size[0]
