@@ -5,4 +5,4 @@ Find cool things about Alzheimer's disease
 <img src="eq_image.png" width="700" height="400">
 
 2. K-Space
-<img src="k_space.png" width="700" height="400">
+<img src="k_space.png" width="700" height="300">
